@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>360856948962-0fkqkfma2vbbb12gr2tg8r8tb78mr513.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.360856948962-0fkqkfma2vbbb12gr2tg8r8tb78mr513</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtb9G7MY4_2vYGY0GS6KyXp_XkVjXBw_Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>360856948962</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.goby</string>
+	<key>PROJECT_ID</key>
+	<string>goby-9fafe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goby-9fafe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:360856948962:ios:3e7749d77f116990a08ebb</string>
+</dict>
+</plist>
